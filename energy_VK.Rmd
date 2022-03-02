@@ -29,7 +29,7 @@ mutate = dplyr::mutate
 ```
 
 ```{r}
-contacts <- fread("out/atomdist.txt") %>%
+contacts <- fread("zcat out/atomdist.txt.gz") %>%
   filter(dist <= 5, chain.id.from != chain.id.to) %>%
   select(-atom.from, -atom.to, -dist) %>%
   unique
