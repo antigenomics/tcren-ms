@@ -153,7 +153,9 @@ contacts.a.3 <- contacts.a %>%
 #  summarize(count = n())
 ```
 
-
+```{r}
+fwrite(contacts.a.1 %>% ungroup %>% select(-type), "contacts_raw.txt", sep = "\t")
+```
 
 ```{r}
 aas <- unique(contacts.a.1$residue.aa.from)
@@ -1232,11 +1234,15 @@ ggdraw() +
   draw_plot(p5a, x = 0, y = .5, width = .5, height = .5) +
   draw_plot(p5b, x = .5, y = .5, width = .5, height = .5) +  
   draw_plot(p5c, x = -.06, y = .17, width = .5, height = .25) +
-  draw_image("~/struct2020/fig5c.png", x = .55, y = 0.05, width = .5, height = .45) +
+  draw_image("fig5c.pdf", x = .55, y = 0.05, width = .5, height = .45) +
   draw_plot(p5d, x = .35, y = 0, width = .3, height = .47) +
   #draw_plot(ps4c, x = .6, y = 0, width = .4, height = .6) +
   draw_plot_label(label = c("A", "B", "C", "D", "E"), size = 11,
                   x = c(0.05, .55, 0, .35, .67), y = c(1, 1, .48, .48, .48))
 
+```
+
+```{r}
+#fin
 ```
 
