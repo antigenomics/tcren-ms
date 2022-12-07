@@ -1,0 +1,14 @@
+Processed 26990_TCR-pMHC.pdb
+Processed 26998_TCR-pMHC.pdb
+Processed 27010_TCR-pMHC.pdb
+Processed 26996_TCR-pMHC.pdb
+Processed 27009_TCR-pMHC.pdb
+Processed 26992_TCR-pMHC.pdb
+Processed 27002_TCR-pMHC.pdb
+Processed 27003_TCR-pMHC.pdb
+Processed 26994_TCR-pMHC.pdb
+Processed 27008_TCR-pMHC.pdb
+Processed 26995_TCR-pMHC.pdb
+Processed 26997_TCR-pMHC.pdb
+Processed 27005_TCR-pMHC.pdb
+Processed 26993_TCR-pMHC.pdb

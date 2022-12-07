@@ -1,0 +1,7 @@
+Processed 302TIL_C0303_10_TCR-pMHC.pdb
+Processed 302TIL_B3501_9_TCR-pMHC.pdb
+Processed 302TIL_B5801_9_TCR-pMHC.pdb
+Processed 302TIL_A0206_10_TCR-pMHC.pdb
+Processed 302TIL_A0206_9_TCR-pMHC.pdb
+Processed 302TIL_C0303_9_TCR-pMHC.pdb
+Processed 302TIL_B3501_10_TCR-pMHC.pdb

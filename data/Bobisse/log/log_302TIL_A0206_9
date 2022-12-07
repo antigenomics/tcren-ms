@@ -1,0 +1,60 @@
+/home/vk/.conda-envs/TCRpMHCmodels/lib/python2.7/site-packages/sklearn/ensemble/weight_boosting.py:27: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+BLACKLIST:
+()
+/home/vk/tcren-new/data/Bobisse/TCRpMHCmodels_all
+The following 7 residues contain 6-membered rings with poor geometries
+after transfer from templates. Rebuilding rings from internal coordinates:
+   <Residue 7:M (type TYR)>
+   <Residue 8:M (type PHE)>
+   <Residue 9:M (type TYR)>
+   <Residue 59:M (type TYR)>
+   <Residue 109:M (type PHE)>
+   <Residue 113:M (type TYR)>
+   <Residue 116:M (type TYR)>
+0 atoms in HETATM/BLK residues constrained
+to protein atoms within 2.30 angstroms
+and protein CA atoms within 10.00 angstroms
+0 atoms in residues without defined topology
+constrained to be rigid bodies
+
+>> Summary of successfully produced models:
+Filename                          molpdf
+----------------------------------------
+302TIL_A0206_9_pMHC.B99990001.pdb     8428.69824
+
+/home/vk/tcren-new/data/Bobisse/TCRpMHCmodels_all
+The following 21 residues contain 6-membered rings with poor geometries
+after transfer from templates. Rebuilding rings from internal coordinates:
+   <Residue 7:M (type TYR)>
+   <Residue 8:M (type PHE)>
+   <Residue 9:M (type TYR)>
+   <Residue 22:M (type PHE)>
+   <Residue 116:M (type TYR)>
+   <Residue 21:A (type TYR)>
+   <Residue 29:A (type TYR)>
+   <Residue 33:A (type TYR)>
+   <Residue 60:A (type PHE)>
+   <Residue 64:A (type PHE)>
+   <Residue 86:A (type TYR)>
+   <Residue 87:A (type PHE)>
+   <Residue 99:A (type TRP)>
+   <Residue 32:B (type PHE)>
+   <Residue 34:B (type TYR)>
+   <Residue 47:B (type TYR)>
+   <Residue 64:B (type PHE)>
+   <Residue 89:B (type TYR)>
+   <Residue 90:B (type PHE)>
+   <Residue 103:B (type TYR)>
+   <Residue 104:B (type PHE)>
+0 atoms in HETATM/BLK residues constrained
+to protein atoms within 2.30 angstroms
+and protein CA atoms within 10.00 angstroms
+0 atoms in residues without defined topology
+constrained to be rigid bodies
+
+>> Summary of successfully produced models:
+Filename                          molpdf
+----------------------------------------
+302TIL_A0206_9_pMHC_TCR.B99990001.pdb    19164.55664
+
